@@ -1,5 +1,5 @@
-﻿/* Syrian Arabic Translation for jQuery UI date picker plugin.
-/* Used in most of Leavant countries, primarily in Syria, Lebanon, JOrdan, Palestine and Iraq.
+/* Syrian Arabic Translation for jQuery UI date picker plugin.
+/* Used in most of Lavant  countries, primarily in Syria, Lebanon, Jordan, Palestine and Iraq.
 /* Mohamed Wadah Jawish -- wdah.jawishsy@outlook.com*/
  
 
